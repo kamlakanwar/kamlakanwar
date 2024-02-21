@@ -32,6 +32,4 @@
 
 ###
 
-<h3 align="left">🔥   My Status :</h3>
-
 ###

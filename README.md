@@ -11,8 +11,9 @@
 ###
 <div>
 <div align="center">
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
-<p align="left">I'm kamla<br><br>- 🔭 I’m working as software developer <br>- 📚 I'm currently learning Java and DSA<br>- ⚡ In my free time I code here</p>
+<p align="center">I'm kamla kanwar<br><br>- 🔭 I’m working as software developer </p>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25sb3VqbXZxZjhhN2U4cXdlamw5dGxyc3JqcDBwdGdzbThvbXJpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif"  />
+  <p align="center"> 📚 I'm currently learning Java and DSA<br>- ⚡ In my free time I code here</p>
 
 </div>
 </div>

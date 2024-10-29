@@ -12,7 +12,7 @@
 <div>
 <div align="center">
 <p align="center">I'm kamla kanwar<br><br>- 🔭 I’m working as software developer </p>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25sb3VqbXZxZjhhN2U4cXdlamw5dGxyc3JqcDBwdGdzbThvbXJpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif"  />
+<img src=<iframe src="https://giphy.com/embed/3oKIPqXWNJswXf1InS" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/time-work-coffee-3oKIPqXWNJswXf1InS">via GIPHY</a></p>  />
   <p align="center"> 📚 I'm currently learning Java and DSA<br>- ⚡ In my free time I code here</p>
 
 </div>

@@ -10,7 +10,7 @@
 
 <div>
 <div align="center">
-<p align="center">🔭 I’m working as software developer </p>
+<p align="center">🔭 I’m working as <b> Software Developer </b> </p>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG10MW5iaW1lbmphOW1nNDZpOWI2NmxmdHp6YXE1YWJlejlleWFsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" >
   <p align="center"> <b> 📚 I'm currently learning Java and DSA </b><br>- ⚡ <b>In my free time I code here</b></p>
 </div>
@@ -49,13 +49,11 @@
   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </div>
 <hr/>
-
+<br>
 <div align="center">
-<p>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVzMWtvMTMycXlzeWN1bnlpcWw2cGNhcjY2bnc3M3FoMno3MmJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPqXWNJswXf1InS/giphy.gif" height="300">
-</p> </div>
-
-<br><br><br>
+</div>
+<br>
 <hr/>
 <h2 align="center">MY STATS</h2>
 <br/>

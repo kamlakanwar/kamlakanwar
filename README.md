@@ -6,13 +6,12 @@
 
 
 <h3 align="center">👩‍💻  About Me</h3>
-
-
+<br/>
 <div>
 <div align="center">
 <p align="center">🔭 I’m working as <b> Software Developer </b> </p>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG10MW5iaW1lbmphOW1nNDZpOWI2NmxmdHp6YXE1YWJlejlleWFsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" >
-  <p align="center"> <b> 📚 I'm currently learning Java and DSA </b><br>- ⚡ <b>In my free time I code here</b></p>
+  <p align="center"> <b> 📚 I'm currently learning Java and DSA </b></p>
 </div>
 </div>
 
@@ -27,46 +26,49 @@
 
 <hr/>
 
-<h2 align="center">Languages and Tools ⚒️ :</h2>
+<h2 align="center">Languages and Tools ⚒️ </h2>
 <br/>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="40" alt="thealgorithms logo"  />
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" 
-  width="40" height="40"/> </a>
-  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="c" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="cplusplus logo" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="html5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="css3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="git" />
+  
 </div>
 <hr/>
 <br>
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVzMWtvMTMycXlzeWN1bnlpcWw2cGNhcjY2bnc3M3FoMno3MmJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPqXWNJswXf1InS/giphy.gif" height="300">
 </div>
-<br>
+<div class="images" align="left">
+<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlakanwar&show_icons=true&locale=en&layout=compact&theme=dark" alt="kamlakanwar" >
+<a align="right" height="190em" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamlakanwar"/></a>
+</div>
+
 <hr/>
 <h2 align="center">MY STATS</h2>
-<br/>
-<div class="images" align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlakanwar&show_icons=true&locale=en&layout=compact&theme=dark" alt="kamlakanwar" height="200">
-<!--   <img  src="https://github-readme-stats.vercel.app/api?username=kamlakanwar&show_icons=true&locale=en&theme=dark" alt="kamlakanwar" height="200"> -->
- <br><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamlakanwar"/></a></div>
+<br>
+<div align="center">
+<a href="https://github.com/kamlakanwar">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamlakanwar&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamlakanwar&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamlakanwar&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamlakanwar&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamlakanwar&theme=dark" height="180em" />
+</div>
 
 <hr/>
 
 <h2 align="center">MY CONTRIBUTIONS</h2>
 <br/>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jazzminegarg/jazzminegarg/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kamlakanwar/kamlakanwar/output/github-contribution-grid-snake-dark.svg" />
 </div>

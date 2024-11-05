@@ -4,15 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kamla+Kanwar!;" />
 </h1>
 
-
 <h3 align="center">👩‍💻  About Me</h3>
-<br/>
-<div>
 <div align="center">
-<p align="center">🔭 I’m working as <b> Software Developer </b> </p>
+<p>🔭 I’m working as <b> Web Developer </b> </p>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG10MW5iaW1lbmphOW1nNDZpOWI2NmxmdHp6YXE1YWJlejlleWFsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" >
-  <p align="center"> <b> 📚 I'm currently learning Java and DSA </b></p>
-</div>
+  <p> <b> 📚 I'm currently learning Java and DSA </b></p>
 </div>
 
 <div align="center"> 
@@ -27,7 +23,7 @@
 <hr/>
 
 <h2 align="center">Languages and Tools ⚒️ </h2>
-<br/>
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="c" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="cplusplus logo" />
@@ -44,31 +40,23 @@
   
 </div>
 <hr/>
+<h2 align="center">MY STATISTICS</h2>
 <br>
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVzMWtvMTMycXlzeWN1bnlpcWw2cGNhcjY2bnc3M3FoMno3MmJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPqXWNJswXf1InS/giphy.gif" height="300">
 </div>
-<div class="images" align="left">
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlakanwar&show_icons=true&locale=en&layout=compact&theme=dark" alt="kamlakanwar" >
-<a align="right" height="190em" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamlakanwar"/></a>
+<div align="center">
+<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlakanwar&show_icons=true&locale=en&layout=compact&theme=dark" alt="kamlakanwar" >
+<a  height="200em" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamlakanwar"/></a>
 </div>
 
 <hr/>
-<h2 align="center">MY STATS</h2>
-<br>
+
 <div align="center">
 <a href="https://github.com/kamlakanwar">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamlakanwar&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamlakanwar&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamlakanwar&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamlakanwar&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamlakanwar&theme=dark" height="180em" />
-</div>
-
-<hr/>
-
-<h2 align="center">MY CONTRIBUTIONS</h2>
-<br/>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kamlakanwar/kamlakanwar/output/github-contribution-grid-snake-dark.svg" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamlakanwar&theme=dark" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamlakanwar&theme=dark" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamlakanwar&theme=dark" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamlakanwar&theme=dark" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamlakanwar&theme=dark" height="200em" />
 </div>

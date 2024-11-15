@@ -5,17 +5,16 @@
 </h1>
 
 <h2 align="center">👩‍💻  About Me</h2>
-
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG10MW5iaW1lbmphOW1nNDZpOWI2NmxmdHp6YXE1YWJlejlleWFsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
-    width="350">
+    width="450">
 
-- 🔭 I’m currently working on **My core skills**
-  
+- 🔭 I’m currently working on **My core skills** 
 - 🧑‍🎓 Student at University of **Baddi University of Emerging Sciences & Technology(BUEST)**
-  
 - 👯 Get connected on LinkedIn **https://www.linkedin.com/in/kamla-kanwar**
-  
 - 📚 I'm currently learning **JAVA, DSA and Backend technologies**
+- 💻 Languages: Proficient in JAVA, with a love for learning new ones.
+- 🌟 Philosophy: "Write code like poetry—concise, clear, and impactful."
+- 🎯 Preparing for top-tier tech interviews with company-specific challenges.
   
   <h3>Connect with me:</h3>
   <a href="mailto:kamlakanwar923@gmail.com">

@@ -51,7 +51,6 @@
 </div>
 <div align="center">
 <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlakanwar&show_icons=true&locale=en&layout=compact&theme=dark" alt="kamlakanwar" >
-<a  height="200em" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kamlakanwar"/></a>
 </div>
 
 <hr/>

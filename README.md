@@ -8,9 +8,9 @@
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG10MW5iaW1lbmphOW1nNDZpOWI2NmxmdHp6YXE1YWJlejlleWFsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
     width="400">
 
+- 👩‍💻 My Profile : **https://kamlakanwar.github.io/Portfolio/**
 - 🔭 I’m currently working on **My core skills** 
 - 🧑‍🎓 Student at University of **Baddi University of Emerging Sciences & Technology(BUEST)**
-- 👯 Get connected on LinkedIn **https://www.linkedin.com/in/kamla-kanwar**
 - 📚 I'm currently learning **JAVA, DSA and Backend technologies**
 - 💻 Languages: Proficient in JAVA, with a love for learning new ones.
 - 🌟 Philosophy: "Write code like poetry—concise, clear, and impactful."

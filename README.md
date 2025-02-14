@@ -23,10 +23,6 @@
   <a href="https://www.linkedin.com/in/kamla-kanwar/" target="_blank">
   <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="@Kamlakanwar30">
-  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-  </a>
-
   </hr>
 
 <br>

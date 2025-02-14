@@ -18,14 +18,18 @@
   
   <h3>Connect with me:</h3>
   <a href="mailto:kamlakanwar923@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://www.linkedin.com/in/kamla-kanwar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  
-<hr/>
+  <a href="@Kamlakanwar30">
+  <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  </a>
 
+  </hr>
+
+<br>
 <h2 align="center">Languages and Tools ⚒️ </h2>
 <br>
 <div align="center">

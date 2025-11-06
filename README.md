@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=kamlakanwar&label=Profile%20views&color=0e75b6&style=flat" alt="KamlaKanwar" /> 
+<img align="right" src="https://komarev.com/ghpvc/?username=kamlakanwar&label=Profile%20views&color=0e75b6&style=flat" alt="Kamla" /> 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kamla+Kanwar!;" />
@@ -8,7 +8,7 @@
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG10MW5iaW1lbmphOW1nNDZpOWI2NmxmdHp6YXE1YWJlejlleWFsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
     width="400">
 
-- 👩‍💻 My Profile : **https://personal-portfolio-two-liard.vercel.app/**
+- 👩‍💻 My Profile : **https://new-portfolio-kappa-sepia-50.vercel.app/**
 - 🔭 I’m currently working on **My core skills** 
 - 🧑‍🎓 Student at University of **Baddi University of Emerging Sciences & Technology(BUEST)**
 - 🌟 Philosophy: "Write code like poetry—concise, clear, and impactful."

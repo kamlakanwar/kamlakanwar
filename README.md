@@ -10,7 +10,6 @@
 
 - 👩‍💻 My Profile : **https://new-portfolio-kappa-sepia-50.vercel.app/**
 - 🔭 I’m currently working on **My core skills** 
-- 🧑‍🎓 Student at University of **Baddi University of Emerging Sciences & Technology(BUEST)**
 - 🌟 Philosophy: "Write code like poetry—concise, clear, and impactful."
 - 🎯 Preparing for top-tier tech interviews with company-specific challenges.
   

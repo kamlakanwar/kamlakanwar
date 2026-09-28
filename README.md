@@ -35,16 +35,7 @@
   
 </div>
 <hr/>
-<h2 align="center">MY STATISTICS</h2>
-<br>
-<div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVzMWtvMTMycXlzeWN1bnlpcWw2cGNhcjY2bnc3M3FoMno3MmJ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPqXWNJswXf1InS/giphy.gif" height="300">
-</div>
-<div align="center">
-<img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlakanwar&show_icons=true&locale=en&layout=compact&theme=dark" alt="kamlakanwar" >
-</div>
 
-<hr/>
 
 <div align="center">
 <a href="https://github.com/kamlakanwar">
